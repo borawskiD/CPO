@@ -1,0 +1,10 @@
+batch_size: 32
+height: 96
+learning_rate: 0.0005
+max_text_length: 93
+model_path: Models/04_sentence_recognition/202405221206
+train_epochs: 1
+train_workers: 20
+vocab: CL6xns(-EhZmG5i#FJ,r!qakdX2"b&'pNg9ulR0)BSjTvc?YeAWf8:QH;wO1UVM3IP*KD.z/47+oy
+  t
+width: 1408
